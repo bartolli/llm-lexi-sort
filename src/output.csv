@@ -1,0 +1,11 @@
+Word,Category,Language,Confidence
+Buch,Medien,de,1.0
+Buch,Media,en,1.0
+Haus,Gebäude,de,1.0
+Haus,Building,en,1.0
+Katze,Tiere,de,1.0
+Katze,Animals,en,1.0
+Schule,Bildungseinrichtungen,de,1.0
+Schule,Educational institutions,en,1.0
+Tisch,Möbel,de,1.0
+Tisch,Furniture,en,1.0
